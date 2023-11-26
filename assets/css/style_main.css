@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: serif;
+}
+
+header, footer {
+    min-height: 30vh;
+}
+
+header {
+    background: #36805D;
+    /*color:  #552828;*/
+    color: white;
+}
+
+footer {
+    background: #36805D;
+}
+
+main{
+    min-height: 70vh;
+}
